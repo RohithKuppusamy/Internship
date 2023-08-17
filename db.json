@@ -21,5 +21,61 @@
       "username": "Rohith",
       "password": "Rohith123"
     }
+  ],
+  "Student": [
+    {
+      "StudentId": 101,
+      "StudentName": "Rohith",
+      "Age": 20,
+      "RollNumber": 1001,
+      "PrimaryParentName": "Thennarasu",
+      "PhoneNumber": 9876543210,
+      "EmailAddress": "rohith@gmail.com"
+    },
+    {
+      "StudentId": 102,
+      "StudentName": "Viswanth",
+      "Age": 20,
+      "RollNumber": 1002,
+      "PrimaryParentName": "Prakash",
+      "PhoneNumber": 9876543201,
+      "EmailAddress": "viswanth@gmail.com"
+    },
+    {
+      "StudentId": 103,
+      "StudentName": "Pushpanth",
+      "Age": 20,
+      "RollNumber": 1003,
+      "PrimaryParentName": "Murali",
+      "PhoneNumber": 9876543021,
+      "EmailAddress": "pushpanth@gmail.com"
+    },
+    {
+      "StudentId": 104,
+      "StudentName": "Urmila",
+      "Age": 20,
+      "RollNumber": 1004,
+      "PrimaryParentName": "Vaidhya",
+      "PhoneNumber": 9876540321,
+      "EmailAddress": "urmila@gmail.com"
+    },
+    {
+      "StudentId": 105,
+      "StudentName": "Harish",
+      "Age": 20,
+      "RollNumber": 1005,
+      "PrimaryParentName": "Radhakrishnan",
+      "PhoneNumber": 9876504321,
+      "EmailAddress": "harish@gmail.com"
+    },
+    {
+      "StudentId": 106,
+      "StudentName": "Dheeraj",
+      "Age": 20,
+      "RollNumber": 1006,
+      "PrimaryParentName": "Prabakar",
+      "PhoneNumber": 9870654321,
+      "EmailAddress": "dheeraj@gmail.com"
+    }
   ]
 }
