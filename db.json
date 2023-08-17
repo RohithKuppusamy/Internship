@@ -16,4 +16,9 @@
       "Teacher": "Mahesh"
     }
   ]
+  "Credentials": [
+    {
+      "username": "Rohith",
+      "password": "Rohith123"
+    }
 }
