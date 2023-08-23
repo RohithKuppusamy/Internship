@@ -157,7 +157,7 @@
     startTime: genTimeBlock("FRI", 13, 30),
     endTime: genTimeBlock("FRI", 14, 50),
     location: "Lab 505",
-  },
+  }
   ]
 
 }
