@@ -1,28 +1,5 @@
 {
-  "Form": [
-    {
-      "Division": 1,
-      "Subject": "Maths",
-      "Teacher": "Ramesh"
-    },
-    {
-      "Division": 2,
-      "Subject": "Physics",
-      "Teacher": "Suresh"
-    },
-    {
-      "Division": 3,
-      "Subject": "Chemistry",
-      "Teacher": "Mahesh"
-    }
-  ],
-  "Credentials": [
-    {
-      "username": "Rohith",
-      "password": "Rohith123"
-    }
-  ],
-  "Student": [
+    "Student": [
     {
       "StudentId": 101,
       "StudentName": "Rohith",
