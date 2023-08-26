@@ -86,9 +86,8 @@
   "date": "01/01/2023"
     }
 ],
-  "Gender": [
+  "Gender": 
     {
     "gender": "male"
     }
-  ]
 }
